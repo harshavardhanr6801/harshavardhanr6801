@@ -1,15 +1,16 @@
-# <h1 align="center">Hi there 👋 I'm Harsha Vardhan<br> Java Full Stack Developer | Spring Boot | React | AWS </h1>
+# <h1 align="center">
+#  Hi there 👋 I'm Harsha Vardhan
+# </h1>
 <p align="center">
-
+  <strong>Java Full Stack Developer | Spring Boot | React | AWS</strong>
 </p>
 
-
 # 💫 About Me:
-<br>Java Full Stack Developer with experience building scalable backend systems and end-to-end applications using **Java, Spring Boot, React, and AWS**.<br><br>I enjoy designing clean REST APIs, optimizing database performance,<br>integrating cloud services, and building secure, role-based applications that solve real-world problems.<br><br>🚀 What I'm Up To:<br>- 🧭 Building **WanderHub**, a full stack travel platform using Spring Boot and React<br>- ☁️ Working on cloud-native applications with AWS<br>- 📚 Strengthening DSA and backend system design for interviews<br>
+<br>Java Full Stack Developer with experience building scalable backend systems and end-to-end applications using **Java, Spring Boot, React, and AWS**.<br><br>I enjoy designing clean REST APIs, optimizing database performance, integrating cloud services, and building secure, role-based applications that solve real-world problems.<br><br>🚀 What I'm Up To:<br>- 🧭 Building **WanderHub**, a full stack travel platform using Spring Boot and React<br>- ☁️ Working on cloud-native applications with AWS<br>- 📚 Strengthening DSA and backend system design for interviews<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harsha-rudravarapu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshavardhanr6801@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsha-rudravarapu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshavardhanr6801@gmail.com) 
 
 ## 💻 Tech Stack
 
