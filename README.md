@@ -1,11 +1,11 @@
-# <h1 align="center">Hi there 👋 I'm Harsha Vardhan</h1>
+# <h1 align="center">Hi there 👋 I'm Harsha Vardhan<br> Java Full Stack Developer | Spring Boot | React | AWS </h1>
 <p align="center">
-Java Full Stack Developer | Spring Boot | React | AWS
+
 </p>
 
 
 # 💫 About Me:
-<br>Java Full Stack Developer with experience building scalable backend systems<br>and end-to-end applications using **Java, Spring Boot, React, and AWS**.<br><br>I enjoy designing clean REST APIs, optimizing database performance,<br>integrating cloud services, and building secure, role-based applications<br>that solve real-world problems.<br><br>🚀 What I'm Up To:<br>- 🧭 Building **WanderHub**, a full stack travel platform using Spring Boot and React<br>- ☁️ Working on cloud-native applications with AWS<br>- 📚 Strengthening DSA and backend system design for interviews<br>
+<br>Java Full Stack Developer with experience building scalable backend systems and end-to-end applications using **Java, Spring Boot, React, and AWS**.<br><br>I enjoy designing clean REST APIs, optimizing database performance,<br>integrating cloud services, and building secure, role-based applications that solve real-world problems.<br><br>🚀 What I'm Up To:<br>- 🧭 Building **WanderHub**, a full stack travel platform using Spring Boot and React<br>- ☁️ Working on cloud-native applications with AWS<br>- 📚 Strengthening DSA and backend system design for interviews<br>
 
 
 ## 🌐 Socials:
