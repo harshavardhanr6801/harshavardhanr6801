@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there 👋 I'm Harsha Vardhan</h1>
-# <p align="center">
-#  Java Full Stack Developer | Spring Boot | React | AWS
-# </p>
+<p align="center">
+Java Full Stack Developer | Spring Boot | React | AWS
+</p>
 
 
 # 💫 About Me:
