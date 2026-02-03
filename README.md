@@ -1,4 +1,4 @@
-# <h1 align="center"> Hi there 👋 I'm Harsha Vardhan </h1>
+# <h1 align="center"> Hi 👋 I'm Harsha Vardhan </h1>
 <p align="center">
   <strong>Java Full Stack Developer | Spring Boot | React | AWS</strong>
 </p>
